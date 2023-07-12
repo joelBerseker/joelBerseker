@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Inventory](https://github.com/joelBerseker/inventario-frontend)
 
-- 🌱 I’m currently learning **VueJs and Reack**
+- 🌱 I’m currently learning **VueJs, React and Database Manage**
 
 - 👯 I’m looking to collaborate on [Inventory backend](https://github.com/reyalexander/inventario-backend/)
 
