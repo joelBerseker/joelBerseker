@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on [Inventory backend](https://github.com/reyalexander/inventario-backend/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/joelBerseker?tab=repositories](https://github.com/joelBerseker?tab=repositories)
+- 👨‍💻 All of my projects are available at [REPOSITORIES](https://github.com/joelBerseker?tab=repositories)
 
 - 💬 Ask me about **VueJS and Database**
 
-- 📫 How to reach me **joelatamari@gmail.com**
+- 📫 How to reach me [JoelBersek](joelatamari@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
