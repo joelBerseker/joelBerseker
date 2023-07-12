@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 - 👋 Hi, I'm @joelBerseker
 - 👀 I am interested in frontend development and database management
 - 🌱 I am currently learning all the technologies in the world
