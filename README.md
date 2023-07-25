@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelberseker&label=Profile%20views&color=0e75b6&style=flat" alt="joelberseker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelberseker" alt="joelberseker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelBerseker&row=2&column=8&theme=gruvbox&no-frame=true" alt="joelberseker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/joelberseker" target="blank"><img src="https://img.shields.io/twitter/follow/joelberseker?logo=twitter&style=for-the-badge" alt="joelberseker" /></a> </p>
 
